@@ -1,0 +1,15 @@
+﻿.alert {
+    background-color: red;
+}
+
+.btn {
+    background-color: blue;
+    color: white;
+    padding: 1em;
+    margin: 5px;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: center;
+}
